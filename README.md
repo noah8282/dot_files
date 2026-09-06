@@ -1,4 +1,4 @@
-# Omarchy Dotfiles Backup
+# Dotfiles Backup
 
 A backup of my customized Omarchy configuration files for Hyprland.
 
